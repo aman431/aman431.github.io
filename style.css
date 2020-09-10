@@ -75,3 +75,68 @@
 .project .java p{
 	margin-top: 20px;
 }
+.fitness h3 {
+	margin-top: 40px;
+}
+.fitness h3 a{
+	text-decoration: none;
+	color: black;
+}
+.fitness p {
+	margin-top: 20px;
+}
+.fitness ul li{
+	margin-left: 20px;
+}
+.game h3 {
+	margin-top: 40px;
+}
+.game h3 a{
+	text-decoration: none;
+	color: black;
+}
+.game p{
+	margin-top: 20px;
+}
+.game ul li{
+	margin-left: 20px;
+}
+.python h3{
+	margin-top: 40px;
+}
+.python h3 a{
+	text-decoration: none;
+	color: black;
+}
+.python p{
+	margin-top: 20px;
+}
+.python ul li{
+	margin-left: 20px;
+}
+.extra{
+	margin-top: 40px;
+}
+.extra ul{
+	margin-top: 20px;
+}
+.online h3{
+	margin-top: 40px;
+}
+.online ul li{
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.extra ul li{
+	margin-left: 40px;
+}
+.personal{
+	margin-top: 40px;
+}
+.personal ul{
+	margin-top: 20px;
+}
+.personal ul li{
+	margin-left: 20px;
+}
+
