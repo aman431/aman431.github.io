@@ -3,7 +3,7 @@
 	margin: 0px;
 }
 .main{
-	padding: 40px;
+	margin: 60px;
 }
 .header{
 	display: flex;
@@ -12,12 +12,17 @@
 .name{
 	padding-left: 40px;
 }
+.email{
+	margin-right: 150px;
+}
 .email img{
-	margin-top: 0px;
 	width: 30px;
 	height: 30px;
 }
 .email a{
 	text-decoration: none;
 	color: black;
+}
+#objective{
+	margin-top: 40px; 
 }
