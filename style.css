@@ -3,7 +3,7 @@
 	margin: 0px;
 }
 .main{
-	margin: 60px;
+	margin: 40px;
 }
 .header{
 	display: flex;
@@ -13,7 +13,7 @@
 	padding-left: 40px;
 }
 .email{
-	margin-right: 150px;
+	margin-right: 80px;
 }
 .email img{
 	width: 30px;
@@ -25,4 +25,53 @@
 }
 #objective{
 	margin-top: 40px; 
+}
+.table{
+	border-collapse: collapse;
+	margin-top: 40px;
+	width: 800px;
+	text-align: center;
+}
+.table tr th{
+	padding: 10px;
+}
+.table tr td{
+	padding: 10px;
+}
+.highlights{
+	margin-top: 40px;
+}
+.highlights ul{
+	margin-top: 10px;
+}
+.highlights ul li{
+	margin-left: 20px;
+}
+.technical{
+	margin-top: 40px;
+}
+.technical .language{
+	margin-top: 20px;
+	margin-left: 40px;
+}
+.technical .tools{
+	margin-top: 30px;
+	margin-left: 40px;
+}
+.project h2{
+	margin-top: 60px;
+}
+.project .java h3{
+	margin-top: 40px;
+}
+.project .java h3 a{
+	text-decoration: none;
+	color: black;
+}
+.java ul li{
+	margin-left: 20px;
+}
+
+.project .java p{
+	margin-top: 20px;
 }
